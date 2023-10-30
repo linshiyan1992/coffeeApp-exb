@@ -1,0 +1,1538 @@
+{
+  "pages": {
+    "page_1": {
+      "id": "page_1",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_98",
+        "MEDIUM": "layout_394",
+        "SMALL": "layout_400"
+      },
+      "isVisible": true,
+      "isDefault": true,
+      "oneByOneEffect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null
+        }
+      },
+      "header": false,
+      "label": "页面"
+    }
+  },
+  "layouts": {
+    "layout_98": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "width": "62.5000%",
+            "height": "50.0000%"
+          },
+          "widgetId": "widget_145",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": true,
+              "width": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_99": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_146",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "label": "首页"
+    },
+    "layout_100": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "sectionId": "section_2",
+          "type": "SECTION",
+          "bbox": {
+            "left": "50%",
+            "right": "-4.1667%",
+            "top": "50%",
+            "bottom": "28.3208%",
+            "width": "100.0000%",
+            "height": "100.00%"
+          },
+          "setting": {
+            "hCenter": true,
+            "vCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "label": "秒"
+    },
+    "layout_101": {
+      "type": "FIXED",
+      "order": [],
+      "content": {},
+      "label": "Map FixedLayout"
+    },
+    "layout_181": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "54.00px",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_333"
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "81.5%",
+            "width": "100.0%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_523"
+        }
+      }
+    },
+    "layout_392": {
+      "type": "FIXED"
+    },
+    "layout_393": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "vCenter": true
+          },
+          "bbox": {
+            "left": "10.00px",
+            "right": "32.1%",
+            "top": "50%",
+            "bottom": "38.0%",
+            "width": "58.4%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_516"
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_394": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "width": "62.5000%",
+            "height": "50.0000%"
+          },
+          "widgetId": "widget_524",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": true,
+              "width": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_395": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_146",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "首页"
+    },
+    "layout_396": {
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    },
+    "layout_397": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "sectionId": "section_2",
+          "type": "SECTION",
+          "bbox": {
+            "left": "50%",
+            "right": "-4.1667%",
+            "top": "50%",
+            "bottom": "28.3208%",
+            "width": "100.0000%",
+            "height": "100.00%"
+          },
+          "setting": {
+            "hCenter": true,
+            "vCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "秒"
+    },
+    "layout_398": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "54.00px",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_333"
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "81.5%",
+            "width": "100.0%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_525"
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_399": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": true
+          },
+          "bbox": {
+            "left": "10.00px",
+            "right": "32.1%",
+            "top": "50%",
+            "bottom": "38.0%",
+            "width": "58.4%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_516"
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_400": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "width": "62.5000%",
+            "height": "50.0000%"
+          },
+          "widgetId": "widget_526",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": true,
+              "width": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_401": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_146",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "首页"
+    },
+    "layout_402": {
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    },
+    "layout_403": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "sectionId": "section_2",
+          "type": "SECTION",
+          "bbox": {
+            "left": "50%",
+            "right": "-4.1667%",
+            "top": "50%",
+            "bottom": "28.3208%",
+            "width": "100.0000%",
+            "height": "100.00%"
+          },
+          "setting": {
+            "hCenter": true,
+            "vCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "秒"
+    },
+    "layout_404": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "54.00px",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_333"
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "81.5%",
+            "width": "100.0%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_527"
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_405": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": true
+          },
+          "bbox": {
+            "left": "10.00px",
+            "right": "32.1%",
+            "top": "50%",
+            "bottom": "38.0%",
+            "width": "58.4%",
+            "height": "54.00px"
+          },
+          "widgetId": "widget_516"
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    }
+  },
+  "exbVersion": "1.12.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/vivid/",
+  "forBuilderAttributes": {
+    "lockLayout": true
+  },
+  "template": "journey",
+  "widgets": {
+    "widget_145": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "400px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_145",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_99"
+        },
+        "SECOND": {
+          "LARGE": "layout_100"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--primary-500)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "label": "侧边栏"
+    },
+    "widget_146": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.12.0",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true,
+          "canLocate": true,
+          "canCompass": false,
+          "canLayers": false,
+          "canBaseMap": true,
+          "canMeasure": true,
+          "canFullScreen": true,
+          "canScaleBar": true,
+          "canSelect": false
+        },
+        "isUseCustomMapState": true,
+        "layoutIndex": 0,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 144447.638572,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": 13204505.534603072,
+              "y": 2863873.9546894445
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": 13190708.650997616,
+            "ymin": 2848586.5490324297,
+            "xmax": 13218302.418208528,
+            "ymax": 2879161.3603464593
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "initialMapDataSourceID": "dataSource_1"
+      },
+      "id": "widget_146",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_101",
+          "MEDIUM": "layout_396",
+          "SMALL": "layout_402"
+        }
+      },
+      "label": "地图",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_333": {
+      "uri": "widgets/arcgis/bookmark/",
+      "version": "1.12.0",
+      "config": {
+        "templateType": "SLIDE2",
+        "isTemplateConfirm": true,
+        "isInitialed": true,
+        "bookmarks": [
+          {
+            "id": 1,
+            "name": "古城的咖啡店",
+            "title": "书签-1",
+            "description": "随着泉州旅游行业的崛起，咖啡店在古城遍地开花",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_333/1698606994253.jpeg",
+              "originalUrl": "${appResourceUrl}/images/widget_333/1698606994253.jpeg",
+              "fileName": "1698606994253.jpeg",
+              "originalName": "b53ed0a90de34beba2a7862187c1c5f5.jpeg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1698606994253",
+              "isUseCompress": false,
+              "originalWidth": 1080,
+              "originalHeight": 720
+            },
+            "imagePosition": "FIT",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 13198896.669070488,
+              "ymin": 2862937.003928604,
+              "xmax": 13202565.646428274,
+              "ymax": 2867016.8303134325
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 18055.954822,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 13200731.15774938,
+                "y": 2864976.9171210183
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_333editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "WebTiled_3267": {
+                "layers": {
+                  "Canvas_World_Dark_Gray_Base": {
+                    "layers": {},
+                    "visibility": false
+                  }
+                },
+                "visibility": false
+              },
+              "18b7c7f2990-layer-4": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_333editor-dataSource_1-1698606729786": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_333editor-dataSource_1-1698606729786": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 4,
+            "name": "扎根在古城",
+            "title": "书签-4",
+            "description": "泉州就这样和咖啡有了不解之缘，它存在的地方既可以是繁华的商场，也可以是朴素的老房子",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_333/1698607675221.jpg",
+              "originalUrl": "${appResourceUrl}/images/widget_333/1698607675221.jpg",
+              "fileName": "1698607675221.jpg",
+              "originalName": "01A55120009d6o1vs9212.jpg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1698607675221",
+              "isUseCompress": false,
+              "originalWidth": 1278,
+              "originalHeight": 1704
+            },
+            "snapParam": {
+              "fileName": "widget_333-snap4-1698607593259.jpg",
+              "originalName": "widget_333-snap4-1698607593259",
+              "url": "${appResourceUrl}/images/widget_333/widget_333-snap4-1698607593259.jpg",
+              "type": "IMAGE",
+              "size": 1352379,
+              "created": 1698607593267,
+              "resourcesPrefix": "images/widget_333",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 13200856.919797234,
+              "ymin": 2864148.6950852787,
+              "xmax": 13201315.541967008,
+              "ymax": 2864658.673383439
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 2256.994353,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 13201086.230882121,
+                "y": 2864403.684234359
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_333editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "WebTiled_3267": {
+                "layers": {
+                  "Canvas_World_Dark_Gray_Base": {
+                    "layers": {},
+                    "visibility": false
+                  }
+                },
+                "visibility": false
+              },
+              "18b7c7f2990-layer-4": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_333editor-dataSource_1-1698607089932": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_333editor-dataSource_1-1698607089932": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 5,
+            "name": "Go-be Hub",
+            "title": "书签-5",
+            "description": "这家咖啡店藏在了一个小巷子里，虽然说咖啡一般般，但是坐在这里会有一种很安静的赶脚",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_333/1698608572508.jpg",
+              "originalUrl": "${appResourceUrl}/images/widget_333/1698608572508.jpg",
+              "fileName": "1698608572508.jpg",
+              "originalName": "微信图片_20231030034232.jpg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1698608572508",
+              "isUseCompress": false,
+              "originalWidth": 1702,
+              "originalHeight": 1276
+            },
+            "snapParam": {
+              "fileName": "widget_333-snap5-1698608006790.jpg",
+              "originalName": "widget_333-snap5-1698608006790",
+              "url": "${appResourceUrl}/images/widget_333/widget_333-snap5-1698608006790.jpg",
+              "type": "IMAGE",
+              "size": 1572488,
+              "created": 1698608006799,
+              "resourcesPrefix": "images/widget_333",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 13199638.944275158,
+              "ymin": 2865709.786988006,
+              "xmax": 13200097.566444932,
+              "ymax": 2866219.765286166
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 2256.994353,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 13199868.255360045,
+                "y": 2865964.776137086
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_333editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "WebTiled_3267": {
+                "layers": {
+                  "Canvas_World_Dark_Gray_Base": {
+                    "layers": {},
+                    "visibility": false
+                  }
+                },
+                "visibility": false
+              },
+              "18b7c7f2990-layer-4": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_333editor-dataSource_1-1698607960580": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_333editor-dataSource_1-1698607960580": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 6,
+            "name": "单位附近的咖啡",
+            "title": "书签-6",
+            "description": "红线描的是我经常去喝咖啡的路线，辛勤的打工人必须依靠咖啡积累能量",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_333/1698609712456.jpg",
+              "originalUrl": "${appResourceUrl}/images/widget_333/1698609712456.jpg",
+              "fileName": "1698609712456.jpg",
+              "originalName": "微信图片_20231030040132.jpg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1698609712456",
+              "isUseCompress": false,
+              "originalWidth": 1706,
+              "originalHeight": 1280
+            },
+            "snapParam": {
+              "fileName": "widget_333-snap6-1698608724188.jpg",
+              "originalName": "widget_333-snap6-1698608724188",
+              "url": "${appResourceUrl}/images/widget_333/widget_333-snap6-1698608724188.jpg",
+              "type": "IMAGE",
+              "size": 1153262,
+              "created": 1698608724201,
+              "resourcesPrefix": "images/widget_333",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 13207558.83558444,
+              "ymin": 2860137.199185595,
+              "xmax": 13208017.457754213,
+              "ymax": 2860646.5803194717
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 2256.994353,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 13207788.146669326,
+                "y": 2860391.8897525333
+              }
+            },
+            "graphics": [
+              {
+                "aggregateGeometries": null,
+                "geometry": {
+                  "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                  },
+                  "x": 13207667.51948405,
+                  "y": 2860421.4493845534,
+                  "z": 0
+                },
+                "symbol": {
+                  "type": "esriPMS",
+                  "angle": 0,
+                  "xoffset": 0,
+                  "yoffset": 12,
+                  "contentType": "image/png",
+                  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAYAAAAd+o5JAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADKGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMwMTQgNzkuMTU2Nzk3LCAyMDE0LzA4LzIwLTA5OjUzOjAyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozRDQ2Rjc1RjZDNDkxMUU0QTM3RThDNzNCRDk3QTcyQSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozRDQ2Rjc2MDZDNDkxMUU0QTM3RThDNzNCRDk3QTcyQSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjNENDZGNzVENkM0OTExRTRBMzdFOEM3M0JEOTdBNzJBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjNENDZGNzVFNkM0OTExRTRBMzdFOEM3M0JEOTdBNzJBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hw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",
+                  "url": "https://www.geosceneonline.cn/geoscene/portalimages/Symbols/Basic1/Black_1_Tear_Pin2.png",
+                  "height": 24,
+                  "width": 24
+                },
+                "attributes": {
+                  "jimuDrawId": 2004
+                },
+                "popupTemplate": null
+              },
+              {
+                "aggregateGeometries": null,
+                "geometry": {
+                  "hasZ": true,
+                  "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                  },
+                  "paths": [
+                    [
+                      [
+                        13207600.637084307,
+                        2860495.4977556984,
+                        0
+                      ],
+                      [
+                        13207628.106641345,
+                        2860538.4935841053,
+                        0
+                      ],
+                      [
+                        13207846.66876908,
+                        2860384.4251989806,
+                        0
+                      ],
+                      [
+                        13207876.52698325,
+                        2860428.6153559545,
+                        0
+                      ],
+                      [
+                        13207975.656254299,
+                        2860362.9272847776,
+                        0
+                      ],
+                      [
+                        13207950.575354395,
+                        2860325.903099205,
+                        0
+                      ],
+                      [
+                        13207951.769682962,
+                        2860323.5144420713,
+                        0
+                      ]
+                    ]
+                  ]
+                },
+                "symbol": {
+                  "type": "esriSLS",
+                  "color": [
+                    192,
+                    80,
+                    77,
+                    255
+                  ],
+                  "width": 3,
+                  "style": "esriSLSDash"
+                },
+                "attributes": {
+                  "jimuDrawId": 2015
+                },
+                "popupTemplate": null
+              }
+            ],
+            "showFlag": true,
+            "mapViewId": "widget_333editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "WebTiled_3267": {
+                "layers": {
+                  "Canvas_World_Dark_Gray_Base": {
+                    "layers": {},
+                    "visibility": false
+                  }
+                },
+                "visibility": false
+              },
+              "18b7c7f2990-layer-4": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_333editor-dataSource_1-1698609200589": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_333editor-dataSource_1-1698609200589": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 7,
+            "name": "一个不知如何安放的全景照",
+            "title": "书签-7",
+            "description": "这只是一个为了展示标签功能的Demo而已，这是一个以网页形式存在的APP，我们还可以继续探索Experience Builder为我们提供的微件",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_333-snap7-1698609901570.jpg",
+              "originalName": "widget_333-snap7-1698609901570",
+              "url": "${appResourceUrl}/images/widget_333/widget_333-snap7-1698609901570.jpg",
+              "type": "IMAGE",
+              "size": 1920264,
+              "created": 1698609901580,
+              "resourcesPrefix": "images/widget_333",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 13193593.134102628,
+              "ymin": 2856248.7639537244,
+              "xmax": 13211995.348662257,
+              "ymax": 2873026.691662298
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 72223.819286,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 13202794.241382442,
+                "y": 2864637.727808011
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_333editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "WebTiled_3267": {
+                "layers": {
+                  "Canvas_World_Dark_Gray_Base": {
+                    "layers": {},
+                    "visibility": false
+                  }
+                },
+                "visibility": false
+              },
+              "18b7c7f2990-layer-4": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_333editor-dataSource_1-1698609872182": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_333editor-dataSource_1-1698609872182": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          }
+        ],
+        "runtimeAddAllow": false,
+        "autoPlayAllow": true,
+        "autoInterval": 3,
+        "style": {
+          "id": "default"
+        },
+        "direction": "VERTICAL",
+        "pageStyle": "SCROLL",
+        "space": 10,
+        "scrollBarOpen": true,
+        "navigatorOpen": false,
+        "transition": "None",
+        "transitionDirection": "H",
+        "displayType": "SELECTED",
+        "runtimeUuid": "exb-/builder",
+        "itemHeight": 240,
+        "itemWidth": 240,
+        "transitionInfo": {
+          "transition": {
+            "type": "PUSH",
+            "direction": "H"
+          },
+          "effect": {
+            "type": "None",
+            "option": {
+              "direction": "TOP",
+              "configType": "DEFAULT"
+            }
+          },
+          "oneByOneEffect": null
+        },
+        "displayFromWeb": false
+      },
+      "id": "widget_333",
+      "style": {
+        "background": {
+          "color": "var(--primary-100)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_146"
+      ],
+      "label": "书签"
+    },
+    "widget_516": {
+      "uri": "widgets/common/text/",
+      "version": "1.12.0",
+      "config": {
+        "text": "<p><strong style=\"color: var(--light); font-size: 18px;\">不严谨的咖啡地图</strong></p>",
+        "placeholder": "<p><strong style=\"color: var(--light); font-size: 18px;\">双击以编辑文本</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_516",
+      "label": "文本"
+    },
+    "widget_523": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.12.0",
+      "config": null,
+      "id": "widget_523",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_393"
+        }
+      },
+      "label": "固定面板"
+    },
+    "widget_524": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "400px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_524",
+      "layouts": {
+        "FIRST": {
+          "MEDIUM": "layout_395"
+        },
+        "SECOND": {
+          "MEDIUM": "layout_397"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--primary-500)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "label": "侧边栏 2"
+    },
+    "widget_525": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.12.0",
+      "config": null,
+      "id": "widget_525",
+      "layouts": {
+        "DEFAULT": {
+          "MEDIUM": "layout_399"
+        }
+      },
+      "label": "固定面板 2"
+    },
+    "widget_526": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "320px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_526",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_401"
+        },
+        "SECOND": {
+          "SMALL": "layout_403"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--primary-500)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "label": "侧边栏 3"
+    },
+    "widget_527": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.12.0",
+      "config": null,
+      "id": "widget_527",
+      "layouts": {
+        "DEFAULT": {
+          "SMALL": "layout_405"
+        }
+      },
+      "label": "固定面板 3"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_4": {
+      "id": "view_4",
+      "layout": {
+        "LARGE": "layout_181",
+        "MEDIUM": "layout_398",
+        "SMALL": "layout_404"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {},
+      "label": "视图"
+    }
+  },
+  "sections": {
+    "section_2": {
+      "id": "section_2",
+      "views": [
+        "view_4"
+      ],
+      "label": "部分"
+    }
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "Canvas_World_Dark_Gray_Base",
+      "itemId": "79c7cd177a8e42a98e273312bd8336ec",
+      "portalUrl": "https://www.geosceneonline.cn/geoscene"
+    }
+  },
+  "messageConfigs": {},
+  "pageStructure": [
+    {
+      "page_1": []
+    }
+  ],
+  "timestamp": 1698610430640,
+  "dialogs": {},
+  "header": {
+    "layout": {
+      "LARGE": "layout_392"
+    },
+    "height": {
+      "LARGE": 75,
+      "SMALL": "30px"
+    },
+    "backgroundColor": "var(--light-100)"
+  },
+  "attributes": {
+    "portalUrl": "https://www.geosceneonline.cn/geoscene"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null,
+      "link": null
+    }
+  },
+  "originExbVersion": "1.12.0",
+  "customTheme": {}
+}

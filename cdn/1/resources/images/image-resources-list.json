@@ -1,0 +1,58 @@
+{
+  "1698606994253": {
+    "originalName": "b53ed0a90de34beba2a7862187c1c5f5.jpeg",
+    "fileName": "1698606994253.jpeg",
+    "size": 81546,
+    "url": "${appResourceUrl}/images/widget_333/1698606994253.jpeg",
+    "created": 1698606994253,
+    "resourcesPrefix": "images/widget_333",
+    "referedIds": [],
+    "originId": "1698606994253",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1080,
+    "originalHeight": 720
+  },
+  "1698607675221": {
+    "originalName": "01A55120009d6o1vs9212.jpg",
+    "fileName": "1698607675221.jpg",
+    "size": 418517,
+    "url": "${appResourceUrl}/images/widget_333/1698607675221.jpg",
+    "created": 1698607675221,
+    "resourcesPrefix": "images/widget_333",
+    "referedIds": [],
+    "originId": "1698607675221",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1278,
+    "originalHeight": 1704
+  },
+  "1698608572508": {
+    "originalName": "微信图片_20231030034232.jpg",
+    "fileName": "1698608572508.jpg",
+    "size": 397924,
+    "url": "${appResourceUrl}/images/widget_333/1698608572508.jpg",
+    "created": 1698608572508,
+    "resourcesPrefix": "images/widget_333",
+    "referedIds": [],
+    "originId": "1698608572508",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1702,
+    "originalHeight": 1276
+  },
+  "1698609712456": {
+    "originalName": "微信图片_20231030040132.jpg",
+    "fileName": "1698609712456.jpg",
+    "size": 293491,
+    "url": "${appResourceUrl}/images/widget_333/1698609712456.jpg",
+    "created": 1698609712456,
+    "resourcesPrefix": "images/widget_333",
+    "referedIds": [],
+    "originId": "1698609712456",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1706,
+    "originalHeight": 1280
+  }
+}
